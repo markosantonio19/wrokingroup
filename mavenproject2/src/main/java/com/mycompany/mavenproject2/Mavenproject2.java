@@ -17,5 +17,10 @@ public class Mavenproject2 {
         
         
       Scanner calcu = new Scanner(System.in);
+      
+        System.out.println("ingrese el primer numero");
+        int num1 = calcu.nextInt();
+        System.out.println("ingrese el segundo numero");
+        int num2 = calcu.nextInt();
     }
 }
