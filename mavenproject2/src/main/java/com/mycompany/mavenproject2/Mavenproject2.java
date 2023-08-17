@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class Mavenproject2 {
 
     public static void main(String[] args) {
-        System.out.println("## CALCULADORA ##");
+        System.out.println("## CALCULADORA MATEMATICA ##");
         
         
       Scanner calcu = new Scanner(System.in);
@@ -22,5 +22,17 @@ public class Mavenproject2 {
         int num1 = calcu.nextInt();
         System.out.println("ingrese el segundo numero");
         int num2 = calcu.nextInt();
+        
+        
+        
+        
+        
+        
+        
+        
+   
+        
+        
+        
     }
 }
