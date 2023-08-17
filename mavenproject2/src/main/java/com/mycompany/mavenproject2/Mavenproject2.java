@@ -23,9 +23,12 @@ public class Mavenproject2 {
         System.out.println("ingrese el segundo numero");
         int num2 = calcu.nextInt();
         
+
         int suma = num1 + num2;
         System.out.println("la suma es :" + suma);
         
+        int resta = num1 + num2;
+        System.out.println("la resta es:" + resta);
         
         
         
