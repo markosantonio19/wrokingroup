@@ -17,5 +17,11 @@ public class Mavenproject2 {
         
         
       Scanner calcu = new Scanner(System.in);
+      
+      
+        int suma = numero1+numero2;
+        int resta = numero1-numero2;
+        int multiplicacion = numero1*numero2;
+        int divicion = numero1/numero2;
     }
 }
