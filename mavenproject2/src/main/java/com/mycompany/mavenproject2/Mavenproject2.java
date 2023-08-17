@@ -4,6 +4,8 @@
 
 package com.mycompany.mavenproject2;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Alumno
@@ -11,6 +13,9 @@ package com.mycompany.mavenproject2;
 public class Mavenproject2 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("## CALCULADORA ##");
+        
+        
+      Scanner calcu = new Scanner(System.in);
     }
 }
