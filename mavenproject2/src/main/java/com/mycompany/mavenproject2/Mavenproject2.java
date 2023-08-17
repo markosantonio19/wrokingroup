@@ -13,15 +13,29 @@ import java.util.Scanner;
 public class Mavenproject2 {
 
     public static void main(String[] args) {
-        System.out.println("## CALCULADORA ##");
+        System.out.println("## CALCULADORA MATEMATICA ##");
         
         
       Scanner calcu = new Scanner(System.in);
       
-      
-        int suma = num1+num2;
-        int resta = numero1-num2;
-        int multiplicacion = num1*num2;
-        int divicion = num1/num2;
+        System.out.println("ingrese el primer numero");
+        int num1 = calcu.nextInt();
+        System.out.println("ingrese el segundo numero");
+        int num2 = calcu.nextInt();
+        
+        int suma = num1 + num2;
+        System.out.println("la suma es :" + suma);
+        
+        
+        
+        
+        
+        
+        
+        
+   
+        
+        
+        
     }
 }
